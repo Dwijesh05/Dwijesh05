@@ -1,35 +1,34 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Dwijesh%20Reddy%20Pakanati&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Building%20Trustworthy%20%26%20Interpretable%20AI&descAlignY=58&descSize=15&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,16,18,20&amp;height=200&amp;section=header&amp;text=Dwijesh%20Reddy%20Pakanati&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20ML%20Enthusiast%20%7C%20Building%20Trustworthy%20%26%20Interpretable%20AI&amp;descAlignY=58&amp;descSize=15&amp;animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=680&lines=Building+Trustworthy+%26+Interpretable+AI+Systems;Deepfake+Detection+%7C+Medical+AI+%7C+IoT+Security;Oracle+Certified+Generative+AI+Professional;Passionate+About+Ethical+%26+Explainable+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=680&amp;lines=Building+Trustworthy+%26+Interpretable+AI+Systems;Deepfake+Detection+%7C+Medical+AI+%7C+IoT+Security;Oracle+Certified+Generative+AI+Professional;Passionate+About+Ethical+%26+Explainable+AI" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20CSE%20AI%2FML-VIT--AP%20University-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/CGPA-8.51%2F10-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Batch-2022--2026-5B21B6?style=for-the-badge&logo=calendar&logoColor=white" />
+  <img src="https://img.shields.io/badge/B.Tech%20CSE%20AI%2FML-VIT--AP%20University-7C3AED?style=for-the-badge&amp;logo=graduation-cap&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/CGPA-8.51%2F10-6D28D9?style=for-the-badge&amp;logo=academia&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Batch-2022--2026-5B21B6?style=for-the-badge&amp;logo=calendar&amp;logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Anantapur%2C%20Andhra%20Pradesh%2C%20India-4C1D95?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Anantapur%2C%20Andhra%20Pradesh%2C%20India-4C1D95?style=flat-square&amp;logoColor=white" />
 </p>
 
 <p align="center">
   <a href="mailto:dwijeshreddy2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dwijeshreddy2005-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-dwijeshreddy2005-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/dwijesh-reddy-pakanati">
-    <img src="https://img.shields.io/badge/LinkedIn-dwijesh--reddy--pakanati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-dwijesh--reddy--pakanati-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   <a href="https://github.com/Dwijesh05">
-    <img src="https://img.shields.io/badge/GitHub-Dwijesh05-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Dwijesh05-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
 </p>
-
 
 ---
 
@@ -43,8 +42,6 @@ I bring both theoretical rigour and practical execution — from training models
 
 **🔭 Open To:** AI/ML internships · Research collaborations · Open source contributions in interpretable ML
 
-<br/>
-
 ---
 
 ## ◈ Tech Stack
@@ -53,25 +50,39 @@ I bring both theoretical rigour and practical execution — from training models
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java&theme=dark" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,java&amp;theme=dark" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
 
 &nbsp;
 
-**AI / ML**
+**AI / ML Frameworks**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-
-&nbsp;
-
-**Data & Scientific Computing**
-
-<img src="https://skillicons.dev/icons?i=numpy&theme=dark" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/SHAP-7C3AED?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/LIME-6D28D9?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&amp;theme=dark" />
 
 &nbsp;
 
-**Cloud, Tools & Platforms**
+**Data &amp; Scientific Computing**
 
-<img src="https://skillicons.dev/icons?i=git,github,firebase,arduino,vscode&theme=dark" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=numpy&amp;theme=dark" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SHAP-7C3AED?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LIME-6D28D9?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+
+&nbsp;
+
+**Cloud, Tools &amp; Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,firebase,arduino,vscode&amp;theme=dark" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&amp;logo=googlecolab&amp;logoColor=black" />
 
 </div>
 
@@ -87,7 +98,7 @@ I bring both theoretical rigour and practical execution — from training models
 | **Computer Vision** | ████████░░ Expert | CNN architectures, ResNet50, MobileNetV2, EfficientNetV2B0 |
 | **Deepfake Detection** | ███████░░░ Advanced | Comparative CNN analysis, binary classification, 92.27% accuracy |
 | **Medical AI** | ██████░░░░ Advanced | Wavelet-based dual-branch CNN, AUROC optimization, CVD prediction |
-| **Generative AI** | ██████░░░░ Advanced | Prompt engineering, LLMs, zero-shot & few-shot learning, RAG |
+| **Generative AI** | ██████░░░░ Advanced | Prompt engineering, LLMs, zero-shot and few-shot learning, RAG |
 | **IoT & Embedded AI** | ██████░░░░ Advanced | Arduino, ESP8266, sensor fusion, real-time inference |
 | **NLP** | █████░░░░░ Intermediate | LLM integration, text classification, prompt design |
 | **GANs** | █████░░░░░ Intermediate | Generative architecture fundamentals, image synthesis |
@@ -138,7 +149,7 @@ This project goes beyond training a single model — it establishes a reproducib
 </details>
 
 <details>
-<summary><b>💊 Drug Classification Using Decision Tree & Interpretable ML</b></summary>
+<summary><b>💊 Drug Classification Using Decision Tree and Interpretable ML</b></summary>
 <br/>
 
 An end-to-end interpretable AI pipeline for personalized drug prediction, combining a Decision Tree classifier with SHAP and LIME post-hoc explanations to transform black-box medical predictions into fully transparent, auditable outputs.
@@ -156,7 +167,7 @@ The core challenge in medical AI is not accuracy alone — it is trust. This pro
 </details>
 
 <details>
-<summary><b>🔐 Cognitive Gas Flow Security: Autonomous Sensing & Response</b></summary>
+<summary><b>🔐 Cognitive Gas Flow Security: Autonomous Sensing and Response</b></summary>
 <br/>
 
 A production-grade dual-microcontroller IoT safety system for real-time LPG leak detection and autonomous valve shutoff, with remote monitoring and emergency alerting via Firebase.
@@ -165,8 +176,8 @@ A production-grade dual-microcontroller IoT safety system for real-time LPG leak
 |:---|:---|
 | **Stack** | Arduino Uno · ESP8266 · Firebase · MQ2 Sensor · HX711 Load Cell |
 | **Architecture** | Dual-MCU design — Arduino (sensing) + ESP8266 (connectivity) |
-| **Response Time** | Automated valve shutoff in < 2 seconds |
-| **Weight Accuracy** | 99.8% detection reliability on gas level monitoring |
+| **Response Time** | Automated valve shutoff in under 2 seconds |
+| **Detection Reliability** | 99.8% accuracy on gas level monitoring |
 | **Alerting** | SMS + email emergency notifications |
 | **Remote Control** | Firebase-powered real-time valve control dashboard |
 
@@ -180,29 +191,24 @@ This system addresses a critical home safety risk through a layered sensing arch
 
 <p align="center"><strong>Oracle Cloud Infrastructure</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/OCI%202025-Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCI-AI%20Vector%20Search%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI%202025-Generative%20AI%20Professional-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI-AI%20Vector%20Search%20Professional-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" />
 </p>
 
 <p align="center"><strong>IBM Skills Network</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/IBM-Prompt%20Engineering%20for%20Everyone-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-Prompt%20Engineering%20for%20Everyone-054ADA?style=for-the-badge&amp;logo=ibm&amp;logoColor=white" />
 </p>
 
 <p align="center"><strong>Industry Simulations</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Tata-GenAI%20Powered%20Data%20Analytics-00A0DC?style=for-the-badge&logo=tata&logoColor=white" />
-  <img src="https://img.shields.io/badge/Forage-Job%20Simulation-6366F1?style=for-the-badge&logo=forage&logoColor=white" />
-</p>
-
-<p align="center"><strong>Full Stack Development</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-Full%20Stack%20Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tata-GenAI%20Powered%20Data%20Analytics-00A0DC?style=for-the-badge&amp;logo=tata&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Forage-Job%20Simulation-6366F1?style=for-the-badge&amp;logo=forage&amp;logoColor=white" />
 </p>
 
 <p align="center"><strong>VIT-AP University</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/VIT--AP-The%20Way%20to%20Prompt%20Engineering-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIT--AP-The%20Way%20to%20Prompt%20Engineering-7C3AED?style=for-the-badge&amp;logo=academia&amp;logoColor=white" />
 </p>
 
 ---
@@ -222,22 +228,6 @@ This system addresses a critical home safety risk through a layered sensing arch
 | 🧪 **Interpretable AI** | End-to-end SHAP + LIME explainability pipeline for healthcare |
 
 </div>
-
----
-
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dwijesh05&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=A78BFA" />
-</p>
-
----
-
-## ◈ Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dwijesh05/Dwijesh05/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
@@ -276,17 +266,13 @@ current_focus:
 
 <p align="center">
   <a href="mailto:dwijeshreddy2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dwijeshreddy2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-dwijeshreddy2005%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
-</p>
-<p align="center">
   <a href="https://www.linkedin.com/in/dwijesh-reddy-pakanati">
-    <img src="https://img.shields.io/badge/LinkedIn-dwijesh--reddy--pakanati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-dwijesh--reddy--pakanati-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/Dwijesh05">
-    <img src="https://img.shields.io/badge/GitHub-Dwijesh05-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Dwijesh05-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
 </p>
 
@@ -297,5 +283,5 @@ current_focus:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&fontSize=14&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,16,18,20&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
 </p>
