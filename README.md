@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Dwijesh%20Reddy%20Pakanati&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20CSE%20%40%20VIT-AP&descAlignY=58&descSize=16&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Dwijesh%20Reddy%20Pakanati&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Building%20Trustworthy%20%26%20Interpretable%20AI&descAlignY=58&descSize=15&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -30,16 +30,10 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dwijesh05&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Dwijesh05?style=for-the-badge&color=6D28D9&label=FOLLOWERS&logo=github" />
-</p>
 
 ---
 
 ## ◈ About
-
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Dwijesh05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&border_radius=10" />
 
 I am a final-year Computer Science Engineering student at VIT-AP University, specializing in Artificial Intelligence and Machine Learning. My work sits at the intersection of model interpretability, computer vision, and real-world systems engineering — building AI that is not only accurate, but transparent and accountable.
 
@@ -47,38 +41,39 @@ My research spans deepfake video detection using comparative CNN analysis, wavel
 
 I bring both theoretical rigour and practical execution — from training models on Kaggle GPUs to deploying Firebase-powered embedded systems with sub-2-second response times.
 
-**🔭 Open To:** AI/ML internships · Research collaborations · Full-stack AI product roles · Open source contributions
+**🔭 Open To:** AI/ML internships · Research collaborations · Open source contributions in interpretable ML
 
-<br clear="right"/>
+<br/>
 
 ---
 
 ## ◈ Tech Stack
 
-<p align="center">
-  <strong>Languages</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,java,sql&theme=dark" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>ML / AI Frameworks</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-</p>
+**Languages**
 
-<p align="center">
-  <strong>Data & Visualization</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=numpy,opencv&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<p align="center">
-  <strong>Web & Backend</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase&theme=dark" />
-</p>
+&nbsp;
 
-<p align="center">
-  <strong>Cloud, DevOps & Tooling</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,googlecloud,arduino,vscode,kaggle&theme=dark" />
-</p>
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+
+&nbsp;
+
+**Data & Scientific Computing**
+
+<img src="https://skillicons.dev/icons?i=numpy&theme=dark" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/SHAP-7C3AED?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/LIME-6D28D9?style=for-the-badge&logo=python&logoColor=white" />
+
+&nbsp;
+
+**Cloud, Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,firebase,arduino,vscode&theme=dark" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+
+</div>
 
 ---
 
@@ -230,31 +225,10 @@ This system addresses a critical home safety risk through a layered sensing arch
 
 ---
 
-## ◈ GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dwijesh05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&border_radius=10&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Dwijesh05&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&border_radius=10" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwijesh05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&border_radius=10&langs_count=8" />
-</p>
-
----
-
 ## ◈ GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dwijesh05&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=A78BFA" />
-</p>
-
----
-
-## ◈ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dwijesh05&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&radius=10" />
 </p>
 
 ---
@@ -280,8 +254,8 @@ current_focus:
   building:
     - Interpretable AI systems for high-stakes domains
     - Production-ready deepfake detection pipelines
-    - Full-stack AI web applications (MERN + AI backend)
     - Autonomous IoT systems with real-time cloud integration
+    - Research-grade medical AI models
 
   exploring:
     - Multimodal foundation models
@@ -290,10 +264,10 @@ current_focus:
     - Responsible AI governance frameworks
 
   open_to:
-    - AI/ML engineering internships (Summer / Fall 2025)
+    - AI/ML internships 2026
+    - Full-time AI/ML engineering roles
     - Research collaborations in medical AI or NLP
     - Open source contributions in interpretable ML
-    - Full-stack AI product development roles
 ```
 
 ---
