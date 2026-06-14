@@ -3,11 +3,6 @@
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=680&amp;lines=Building+Trustworthy+and+Interpretable+AI+Systems;Deepfake+Detection+%7C+Medical+AI+%7C+IoT+Security;Oracle+Certified+Generative+AI+Professional;Passionate+About+Ethical+and+Explainable+AI" alt="Typing SVG" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=680&amp;lines=Building+Trustworthy+%26+Interpretable+AI+Systems;Deepfake+Detection+%7C+Medical+AI+%7C+IoT+Security;Oracle+Certified+Generative+AI+Professional;Passionate+About+Ethical+%26+Explainable+AI" alt="Typing SVG" />
   </a>
 </p>
